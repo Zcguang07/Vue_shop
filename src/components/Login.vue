@@ -77,7 +77,7 @@ export default {
     // 重置Form表单 在函数中写重置内容
     reseLoginForm(){
       this.$refs.loginFormRef.resetFields(); 
-      // 通过this访问到$refs然后在表出来引用对象loginForm然后调用resetFields()方法就可以重置表单 琢磨思路。。
+      // 通过this访问到$refs然后在表出来引用对象loginForm然后调用resetFields()方法就可以重置表单 琢磨思路。。。。
       // console.log(this.$refs);
     },    
   },
