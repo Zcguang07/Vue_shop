@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div id="app">
 <!-- 占位符 -->
 <router-view></router-view>
@@ -12,5 +12,5 @@ export default {
 </script>
 
 <style>
-
+ 
 </style>
